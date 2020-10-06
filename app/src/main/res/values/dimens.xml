@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="TitleTextSize">20sp</dimen>
+    <dimen name="BodyTextSize">16sp</dimen>
+    <dimen name="LineHeight">24dp</dimen>
+    <dimen name="Padding">24dp</dimen>
+    <dimen name="LayoutWidth">128dp"</dimen>
+    <dimen name="LayoutHeight">0dp"</dimen>
+    <dimen name="LayoutMarginBottomImageView">12dp"</dimen>
+    <dimen name="LayoutMarginBottomTextView">24dp"</dimen>
+
+</resources>
